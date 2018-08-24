@@ -1,5 +1,13 @@
 # CDC clusters
-Covenant University Developers Community (CDC) is divided into clusters based on specific areas of Software Development. You can join any and as many clusters as you want, provided you can keep up with participating in their discussions and projects.
+A cluster is a group of CDC members interested in a particular technology or set of technologies e.g Front-end, Back-end, DevOps etc. Clusters perform different activities including:
+
+- Discussing topics of interest among members.
+- Answering questions and solving challenges together.
+- Carrying out research and working on projects.
+- Sharing their work with the rest of the community.
+- Supervising/mentoring their members engaged in learning tracks.
+
+You can join any and as many clusters as you want, provided you can keep up with participating in their discussions and projects.
 
 Outlined below is a list of all CDC clusters:
 - [Front-end](clusters/front-end.md)
