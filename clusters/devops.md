@@ -1,0 +1,4 @@
+# DevOps cluster
+DevOps, a clipped compound of "development" and "operations", is a set of practices that automates the processes between software development and operations teams in order to build, test, and release software faster and more reliably. The concept is founded on building a culture of collaboration between teams that historically functioned in relative siloes. The benefits of DevOps include rapid delivery, reliability, scalability, improved collaboration and security.
+
+Our discussions and projects in the cluster are focused on creating pipelines and setting up infrastructure that makes it easier and faster to deploy software at scale and monitor software systems.
